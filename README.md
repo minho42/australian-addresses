@@ -1,8 +1,8 @@
 # Australian addresses
 
-addresses uniquely identified by the combination of street, suburb, and region.
+addresses (street,suburb,region,postcode) uniquely identified by the combination of street, suburb, and region.
 
-download data from:
+## download data
 
 https://www.kaggle.com/datasets/sreekanthvasireddy/australia-address
 
