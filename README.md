@@ -1,6 +1,6 @@
 # Australian addresses
 
-unique addresses by street name
+addresses uniquely identified by the combination of street, suburb, and region.
 
 download data from:
 
